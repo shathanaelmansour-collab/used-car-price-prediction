@@ -1,4 +1,8 @@
 # 🚗 Used Car Price Prediction \| Machine Learning Regression
+## 🌐 Live Demo
+
+🚀 **Try the deployed application here:**  
+[Used Car Price Predictor](https://used-car-price-prediction-z2cihdrdku58appd6vckjdb.streamlit.app/)
 
 ## 📌 Project Overview
 
